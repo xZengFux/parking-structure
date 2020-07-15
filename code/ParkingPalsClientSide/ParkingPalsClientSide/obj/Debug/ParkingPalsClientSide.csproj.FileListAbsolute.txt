@@ -1,0 +1,440 @@
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Grant Schorbach\source\repos\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V2\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Fz\IdeaProjects\Parking Pals V3 12-4-19 5_58\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pals V4\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pal V6\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\Parking Pal V7\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Gavin\Downloads\559A_Final_Submission\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll.config
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\ParkingPalsClientSide.pdb
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.exe.config
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csc.rsp
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.exe.config
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\csi.rsp
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.AppContext.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Console.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.exe.config
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\vbc.rsp
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csprojAssemblyReference.cache
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.csproj.CopyComplete
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.dll
+C:\Users\Zeng Fu\iCloudDrive\Documents\UW\559A Services Computing\Project\group_7\code\ParkingPalsClientSide\ParkingPalsClientSide\obj\Debug\ParkingPalsClientSide.pdb
